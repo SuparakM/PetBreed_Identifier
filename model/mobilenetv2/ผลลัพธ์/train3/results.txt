@@ -1,0 +1,8 @@
+รูปที่ 1 (4461d213-de3c-4a42-a5c1-06c654ae50e0.jpg): dog_puppy, ความมั่นใจ = 87.84%
+รูปที่ 2 (dbb7cb2e-ee69-4dc6-8ff9-423f2e2f7815.jpg): dog_puppy, ความมั่นใจ = 99.29%
+รูปที่ 3 (Delta.jpg): cat_kitten, ความมั่นใจ = 98.53%
+รูปที่ 4 (Toby.jpg): dog_puppy, ความมั่นใจ = 97.54%
+รูปที่ 5 (ELAINE.jpg): dog_senior, ความมั่นใจ = 99.97%
+รูปที่ 6 (Lambchop.jpg): dog_adult, ความมั่นใจ = 60.02%
+รูปที่ 7 (Paolo.jpg): cat_senior, ความมั่นใจ = 85.11%
+รูปที่ 8 (Cindi.jpg): cat_young, ความมั่นใจ = 97.93%
