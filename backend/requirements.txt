@@ -1,7 +1,8 @@
-fastapi==0.115.12
-uvicorn[standard]==0.23.2
-numpy==2.0.0
-opencv-python==4.11.0.86
-ultralytics==8.3.150
-tensorflow==2.20.0
-python-multipart==0.0.20
+fastapi
+uvicorn[standard]
+numpy
+opencv-python
+ultralytics
+tensorflow
+python-multipart
+
