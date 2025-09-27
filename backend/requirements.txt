@@ -1,7 +1,7 @@
 fastapi==0.115.12
 uvicorn[standard]==0.34.3
-numpy==2.0.0
-opencv-python==4.11.0.86
+numpy==1.27.0
+opencv-python==4.8.0.74
 ultralytics==8.3.150
 tensorflow==2.20.0
 python-multipart==0.0.20
