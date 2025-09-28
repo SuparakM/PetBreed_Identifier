@@ -5,5 +5,3 @@ opencv-python
 ultralytics
 tensorflow
 python-multipart
-
-
